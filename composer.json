@@ -1,0 +1,24 @@
+{
+    "name": "arifabdd/payment-api",
+    "description": "Library for easy use of ecom api in Laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arifabdd\\PaymentApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arif Abdurahmanov",
+            "email": "48139625+arifabdd@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Arifabdd\\PaymentApi\\": "src/"
+        }
+    }
+}
