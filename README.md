@@ -34,7 +34,7 @@ Before using this library, ensure you have the following prerequisites:
 To use the KapitalBank Payment Integration library in your Laravel project, you need to install it via composer. Open a terminal and run the following command:
 
 ```bash
-composer require arifabdd/payment
+composer require "arifabdd/payment-api @dev"
 ```
 
 ## Usage
